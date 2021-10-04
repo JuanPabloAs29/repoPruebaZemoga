@@ -5,17 +5,18 @@ Application created in response to Zemoga UI test
 npm install
 ```
 
+### Compiles for production
+```
+npm run build
+```
+
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run start
 then the app will be running  at:
   - Local:   http://localhost:8080/
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
 ### Lints and fixes files
 ```
