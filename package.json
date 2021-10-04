@@ -1,0 +1,21 @@
+{
+  "name": "repoPruebaZemoga",
+  "version": "1.0.0",
+  "description": "Application created in response to Zemoga UI test ## Project setup ``` npm install ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:elements": "ng build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanPabloAs29/repoPruebaZemoga.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanPabloAs29/repoPruebaZemoga/issues"
+  },
+  "homepage": "https://github.com/JuanPabloAs29/repoPruebaZemoga#readme"
+}
